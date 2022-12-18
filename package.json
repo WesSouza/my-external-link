@@ -1,0 +1,13 @@
+{
+  "name": "my-external-link",
+  "version": "1.0.0",
+  "description": "A link to another website",
+  "main": "api/redirect.js",
+  "homepage": "https://github.com/WesSouza/my-external-link",
+  "repository": "github:WesSouza/my-external-link",
+  "author": "Wes Souza <hey@wes.dev>",
+  "license": "MIT",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
